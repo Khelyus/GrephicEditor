@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\bin\Debug\net8.0-windows\Laba_3_GraphEditor.exe
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\bin\Debug\net8.0-windows\Laba_3_GraphEditor.deps.json
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\bin\Debug\net8.0-windows\Laba_3_GraphEditor.runtimeconfig.json
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\bin\Debug\net8.0-windows\Laba_3_GraphEditor.dll
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\bin\Debug\net8.0-windows\Laba_3_GraphEditor.pdb
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.Form1.resources
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.Properties.Resources.resources
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.dll
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\refint\Laba_3_GraphEditor.dll
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.pdb
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\Laba_3_GraphEditor.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Laba_3_GraphEditor\Laba_3_GraphEditor\obj\Debug\net8.0-windows\ref\Laba_3_GraphEditor.dll
